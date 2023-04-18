@@ -1,10 +1,10 @@
 # Hola, soy Jota López 👋
 
-👨‍🎓 Soy estudiante de ingeniería de sistemas y me apasiona la programación. Actualmente trabajo de forma independiente como desarrollador en movil.
+👨‍🎓 Soy estudiante de ingeniería de sistemas y me apasiona la programación.
 
-🚀 Estoy enfocado en el desarrollo de aplicaciones móviles y mi lenguaje de elección es Dart con su framework Flutter. Además, también tengo experiencia en Node.js y JavaScript con el framework Vue.js.
+🚀 Estoy enfocado en el aprendizaje y desarrollo de aplicaciones móviles, siendo Dart con su framework Flutter mi lenguaje de elección. Además, también tengo experiencia en Node.js y JavaScript con el framework Vue.js.
 
-## Lenguajes y tecnologías
+## Intereses 
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50"/>
@@ -19,7 +19,7 @@
 
 <br>
 
-🔭 Uno de mis proyectos favoritos es [Univalle Estéreo](https://play.google.com/store/apps/details?id=co.edu.univalle.emisora.univalle_estereo), una aplicación móvil que permite escuchar la emisora de la Universidad del Valle.
+🔭 Uno de mis proyectos favoritos es [Univalle Estéreo](https://play.google.com/store/apps/details?id=co.edu.univalle.emisora.univalle_estereo), una aplicación móvil que permite escuchar la señal en vivo de la emisora de la Universidad del Valle, este proyecto fue desarrollado en Flutter.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code3743&theme=dark&show_icons=true)
 
