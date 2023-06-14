@@ -21,8 +21,7 @@
 
 🔭 Uno de mis proyectos favoritos es [Univalle Estéreo](https://play.google.com/store/apps/details?id=co.edu.univalle.emisora.univalle_estereo), una aplicación móvil que permite escuchar la señal en vivo de la emisora de la Universidad del Valle, este proyecto fue desarrollado en Flutter.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code3743&theme=dark&show_icons=true)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code3743&theme=dark&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code3743&layout=compact&theme=dark)
 
 
