@@ -1,36 +1,32 @@
 # Hola, soy Jota López 👋
 
-👨‍🎓 Soy estudiante de ingeniería de sistemas y me apasiona la programación.
+👨‍🎓 Estoy estudiando Ingeniería de Sistemas y me apasiona el mundo de la programación. Me encanta crear cosas, especialmente cuando se trata de aplicaciones móviles.
 
-🚀 Estoy enfocado en el aprendizaje y desarrollo de aplicaciones móviles, siendo Dart con su framework Flutter mi lenguaje de elección. Además, también tengo experiencia en Node.js y JavaScript con el framework Vue.js.
+🚀 Actualmente, estoy enfocado en desarrollar aplicaciones con **Dart** y **Flutter**. Me gusta mucho trabajar con **Node.js** y **JavaScript**, y últimamente he estado explorando **Astro** para construir sitios web rápidos y modernos. Además, tengo un interés particular en el web scraping, usando **Node.js** para automatizar tareas y recopilar datos.
 
-## Intereses 
+## Tecnologías que me gustan
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="50" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" style="margin: 10px;"/>
 </div>
 
 <br>
 
-🔭 Uno de mis proyectos favoritos es [Univalle Estéreo](https://play.google.com/store/apps/details?id=co.edu.univalle.emisora.univalle_estereo), una aplicación móvil que permite escuchar la señal en vivo de la emisora de la Universidad del Valle, este proyecto fue desarrollado en Flutter.
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code3743&theme=dark&show_icons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code3743&layout=compact&theme=dark)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=code3743&layout=compact&theme=dark)
 
+📫 **¿Quieres ponerte en contacto conmigo?**
 
-📫 Si deseas ponerte en contacto conmigo, puedes encontrarme en:
-
-- LinkedIn: [Jota López](https://linkedin.com/in/jota-lópez-ramirez-899604231)
-- Correo electrónico: [jota.lopez@correounivalle.edu.co](mailto:jota.lopez@correounivalle.edu.co)
-- Sitio web: [code3743.github.io](https://code3743.github.io/)
-
+- **LinkedIn:** [Jota López](https://linkedin.com/in/jota-lópez-ramirez-899604231)
+- **Correo electrónico:** [jota.lopez@correounivalle.edu.co](mailto:jota.lopez@correounivalle.edu.co)
+- **Sitio web:** [code3743.github.io](https://code3743.github.io/)
